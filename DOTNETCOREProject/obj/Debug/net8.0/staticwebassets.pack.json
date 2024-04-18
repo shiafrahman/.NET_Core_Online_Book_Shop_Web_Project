@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\DOTNETCOREProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DOTNETCOREProject.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\book.png",
+      "PackagePath": "staticwebassets\\images\\book.png"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\0dc5e468-6328-446c-a417-ca0ed74fd685.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\0dc5e468-6328-446c-a417-ca0ed74fd685.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\191eb70c-b383-4363-ad9d-8051036e790d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\191eb70c-b383-4363-ad9d-8051036e790d.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\2433409b-9c43-41ee-a0b4-914b074c6ae6.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2433409b-9c43-41ee-a0b4-914b074c6ae6.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\2ed24f08-9516-426d-9744-e537171649ba.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\2ed24f08-9516-426d-9744-e537171649ba.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\36df3c7d-ef45-483e-a467-51831f046985.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\36df3c7d-ef45-483e-a467-51831f046985.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\41f13637-5f6d-40bf-8316-b5901d29ac7a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\41f13637-5f6d-40bf-8316-b5901d29ac7a.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\4cd044c4-cd01-43b6-9535-58174d82c9b3.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4cd044c4-cd01-43b6-9535-58174d82c9b3.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\4d70b2f2-80ad-47d0-b34f-ae9527d442f5.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\4d70b2f2-80ad-47d0-b34f-ae9527d442f5.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\544c9600-1271-4c67-b484-24f92ea55b5b.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\544c9600-1271-4c67-b484-24f92ea55b5b.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\558b9421-0c95-4a11-b79e-a59aacbe6531.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\558b9421-0c95-4a11-b79e-a59aacbe6531.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\5edf39cf-e30d-4300-87d0-58dc0cd7f85d.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\5edf39cf-e30d-4300-87d0-58dc0cd7f85d.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\60f4d7b3-1464-447a-9d5e-8d6d4bc4122a.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\60f4d7b3-1464-447a-9d5e-8d6d4bc4122a.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\649cd51a-34c8-4d3a-b691-844fb00386ad.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\649cd51a-34c8-4d3a-b691-844fb00386ad.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\654d8539-d7d7-48fe-ac48-76e669c3a64e.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\654d8539-d7d7-48fe-ac48-76e669c3a64e.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\6feb97d1-244e-4fb7-8784-7c81888a5317.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\6feb97d1-244e-4fb7-8784-7c81888a5317.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\748a8a55-2cdc-4d3a-be13-9303b31d7c72.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\748a8a55-2cdc-4d3a-be13-9303b31d7c72.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\77319df5-a1d3-441a-9f1d-5c064ce6fef7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\77319df5-a1d3-441a-9f1d-5c064ce6fef7.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\7b41571e-83ff-4845-8324-2dbb0552aa86.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\7b41571e-83ff-4845-8324-2dbb0552aa86.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\a9bbea14-7135-4951-97b5-d2ec213ee1a2.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\a9bbea14-7135-4951-97b5-d2ec213ee1a2.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\ceb6bedf-0115-4643-a754-7bb01cfb86f9.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\ceb6bedf-0115-4643-a754-7bb01cfb86f9.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\dd0ccc00-0254-4f93-91f6-96be20ef9437.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\dd0ccc00-0254-4f93-91f6-96be20ef9437.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\e12e7aae-e09c-4c83-9945-d260da027ea8.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\e12e7aae-e09c-4c83-9945-d260da027ea8.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\fa6914b3-1e48-45e5-815f-c876aea0acb7.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fa6914b3-1e48-45e5-815f-c876aea0acb7.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\images\\product\\fb5ca7a3-e244-40fa-ba6d-287a5d7801fa.jpg",
+      "PackagePath": "staticwebassets\\images\\product\\fb5ca7a3-e244-40fa-ba6d-287a5d7801fa.jpg"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\js\\company.js",
+      "PackagePath": "staticwebassets\\js\\company.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\.NET_Core\\.NETCOREWITHIDENTITY\\.NET_Core\\DOTNETCOREProjectSln\\DOTNETCOREProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DOTNETCOREProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DOTNETCOREProject.props",
+      "PackagePath": "build\\DOTNETCOREProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DOTNETCOREProject.props",
+      "PackagePath": "buildMultiTargeting\\DOTNETCOREProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DOTNETCOREProject.props",
+      "PackagePath": "buildTransitive\\DOTNETCOREProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
